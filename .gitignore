@@ -1,0 +1,17 @@
+# Không cho phép tải dữ liệu ảnh thô lên GitHub
+data/
+*.zip
+*.tar.gz
+
+# Không cho phép tải các file trọng số mô hình nặng lên GitHub
+models/
+*.pth
+*.pt
+*.pkl
+
+# Thư mục rác hệ thống và môi trường ảo
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+vnv/
+.env
