@@ -1,8 +1,9 @@
 torch
 torchvision
+opencv-python
+pillow
 scikit-learn
 matplotlib
 seaborn
-pandas
-numpy
-pillow
+ttach
+grad-cam
